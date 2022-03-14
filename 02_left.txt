@@ -1,0 +1,17 @@
+ 0 :  30,  156 : -10.6792025564067 :  0.3 :RIG : This file is incomplete
+ 2 :  95,  171 : -10.6459076609326 :  0.3 :RIG : This file is incomplete
+ 4 :  23,  114 : -10.6197125194278 :  0.3 :RIG : This file is incomplete
+ 5 :  23,  264 : -11.7467690163428 :  0.3 :RIG : This file is incomplete
+ 6 :  33,  29 : -10.5474485108811 :  0.3 :RIG : This file is incomplete
+ 7 :  22,  7 : -8.46162773543279 :  0.3 :RIG : This file is incomplete
+ 8 :  24,  76 : -10.0458977025163 :  0.3 :RIG : This file is incomplete
+ 9 :  92,  266 : -10.98556780777 :  0.3 :RIG : This file is incomplete
+ 10 :  57,  41 : 6.01935366481311 :  0.3 :RIG : This file is incomplete
+ 11 :  132,  222 : -10.6393494650736 :  0.3 :RIG : This file is incomplete
+ 12 :  79,  33 : -9.78240296827953 :  0.3 :RIG : This file is incomplete
+ 14 :  85,  67 : -10.2472978209707 :  0.3 :RIG : This file is incomplete
+ 17 :  46,  82 : 5.62624880554022 :  0.3 :RIG : This file is incomplete
+ 18 :  72,  118 : -24.6758411268827 :  0.3 :RIG : This file is incomplete
+ 19 :  7,  230 : 35.2773242351861 :  1 :UNKNOWN : This file is incomplete
+ 20 :  18,  212 : 20.3909960315552 :  1 :UNKNOWN : This file is incomplete
+ 21 :  26,  22 : 21.9379030654535 :  1 :UNKNOWN : This file is incomplete
